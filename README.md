@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @pragadeesh47
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Kotlin
+-     I have some little knowledge about python
 - 💞️ I’m looking to collaborate on google
 - 📫 reach me @engineer_471 on twitter
 
