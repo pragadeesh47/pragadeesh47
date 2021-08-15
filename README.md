@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pragadeesh471
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Google
+- 💞️ I’m looking to collaborate on 🤔
 - 📫 reach me @engineer_471 on twitter
 
 <!---
