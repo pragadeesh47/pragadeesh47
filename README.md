@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @pragadeesh471
+- 👋 Hi, I’m pragadeeshwaran
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Fullstack Development
 - 💞️ I’m looking to collaborate on 🤔
-- 📫 reach me @engineer_471 on twitter
 
 <!---
 pragadeesh47/pragadeesh47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
