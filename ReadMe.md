@@ -8,7 +8,7 @@ Full-stack developer | Building web apps
 - **Tools:** Git, GitHub, VSCode
 
 ## 📫 Connect with me
-[LinkedIn](…) • [Twitter](…) • [Portfolio](pragadeesh47.github.io)
+[LinkedIn](https://linedin.com/in/pragadeeshwaran-developer) • [Portfolio](https://pragadeesh47.github.io)
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=pragadeesh47&show_icons=true)
